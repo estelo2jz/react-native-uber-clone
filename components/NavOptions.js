@@ -46,9 +46,9 @@ const NavOptions = () => {
           />
         </TouchableOpacity>
       )}
-      style={{
-        marginTop: 50,
-      }}
+      // style={{
+      //   marginTop: 50,
+      // }}
     />
   )
 }
